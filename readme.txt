@@ -25,7 +25,7 @@ You can use plugin settings in the admin area to customize its functionality.
 
 = Contribute =
 
-Like bbPress Shortcodes? [Give us a rating](https://wordpress.org/support/plugin/bbpress-shortcodes/reviews/?filter=5#new-post)
+Like bbPress Shortcodes? [Give us a rating](https://wordpress.org/support/plugin/bbp-shortcodes/reviews/?filter=5#new-post)
 
 You can contribute to the source code in our [GitHub](https://github.com/nexgenforo/bbpress-shortcodes) page.
 

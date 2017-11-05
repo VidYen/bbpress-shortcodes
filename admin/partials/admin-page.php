@@ -17,7 +17,7 @@
 		?>
 		<div id="after-submit">
 			<p>
-				<?php esc_html_e( 'Like bbPress Shortcodes?', 'bbpress-shortcodes' ); ?> <a href="https://wordpress.org/support/plugin/bbpress-shortcodes/reviews/?filter=5#new-post" target="_blank"><?php esc_html_e( 'Give us a rating', 'bbpress-shortcodes' ); ?></a>
+				<?php esc_html_e( 'Like bbPress Shortcodes?', 'bbpress-shortcodes' ); ?> <a href="https://wordpress.org/support/plugin/bbp-shortcodes/reviews/?filter=5#new-post" target="_blank"><?php esc_html_e( 'Give us a rating', 'bbpress-shortcodes' ); ?></a>
 			</p>
 			<p>
 				<?php esc_html_e( 'Need Help or Have Suggestions?', 'bbpress-shortcodes' ); ?> <?php esc_html_e( 'contact us on', 'bbpress-shortcodes' ); ?> <a href="http://nexgenforo.org/support/bbpress-plugins/bbpress-shortcodes/" target="_blank"><?php esc_html_e( 'Plugin support forum', 'bbpress-shortcodes' ); ?></a> <?php esc_html_e( 'or', 'bbpress-shortcodes' ); ?> <a href="http://nexgenforo.org/contact/" target="_blank"><?php esc_html_e( 'Contact us page', 'bbpress-shortcodes' ); ?></a>
